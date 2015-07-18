@@ -3,4 +3,4 @@ try rebase
 close #6
 try-rebase2
 close #7
-rebase1 add
+rebase1 adda
